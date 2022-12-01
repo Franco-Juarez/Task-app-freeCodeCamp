@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Task-app-freeCodeCamp/static/css/main.dbcf4050.css",
+    "main.js": "/Task-app-freeCodeCamp/static/js/main.59cb6cab.js",
+    "static/media/freeCodeCampLogo.png": "/Task-app-freeCodeCamp/static/media/freeCodeCampLogo.06ef51b18c2b4bb99954.png",
+    "index.html": "/Task-app-freeCodeCamp/index.html",
+    "main.dbcf4050.css.map": "/Task-app-freeCodeCamp/static/css/main.dbcf4050.css.map",
+    "main.59cb6cab.js.map": "/Task-app-freeCodeCamp/static/js/main.59cb6cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcf4050.css",
+    "static/js/main.59cb6cab.js"
+  ]
+}
