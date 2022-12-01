@@ -1,0 +1,33 @@
+.taskStyle {
+    list-style: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: .5rem;
+    background-color: #064635;
+}
+
+.taskStyle li {
+    width: 100%;
+    padding: 1rem;
+    color: #F4EEA9;
+}
+
+.delteIcon {
+    background-color: #064635;
+    margin-right: .5rem;
+    width: 2em;
+    color: #F4EEA9;
+}
+
+.completedTask {
+    text-decoration: line-through;
+    background-color: #F4EEA9;
+}
+
+.completedTask li, .completedTask .delteIcon {
+    color: #064635;
+}
